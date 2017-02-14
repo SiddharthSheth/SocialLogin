@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Social Login</string>
 
-    <string name="facebook_app_id">1872489336330057</string>
+    <string name="facebook_app_id">121214555</string>
 
     <string name="btn_logout_from_google">Logout from Google</string>
     <string name="btn_revoke_access">Revoke Access</string>
