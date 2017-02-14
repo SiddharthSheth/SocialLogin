@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313896822313",
+    "project_id": "social-login-cc5d6"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313896822313:android:d6f2509b1ebd32ea",
+        "android_client_info": {
+          "package_name": "ln.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313896822313-penaf4dlekdj43dfbi8r4lr6kvspi6bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ln.sociallogin",
+            "certificate_hash": "2F870D0C95E79CD69673F81A0363411FF78ECDA4"
+          }
+        },
+        {
+          "client_id": "313896822313-1mfhiuo18jd9uii37nv2k9v6f1risb7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClj840D8Pu7Mgihtuusp83ui8wXNwO3UY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
