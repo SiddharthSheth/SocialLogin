@@ -12,8 +12,8 @@ import io.fabric.sdk.android.Fabric;
 public class DashboardActivity extends AppCompatActivity implements View.OnClickListener {
 
     // Note: Your consumer key and secret should be obfuscated in your source code before shipping.
-    private static final String TWITTER_KEY = "Xq4SVoBIjyMnWv9kEdsvMfVjC";
-    private static final String TWITTER_SECRET = "uiFgR0VpvXL9hsDkGWrzPLHa2t2cya6reAnU1mPml98xPYZRzx";
+    private static final String TWITTER_KEY = "sfddvgdfvdfv"; //your twitter key
+    private static final String TWITTER_SECRET = "fdgdvdfvbdfvbfdbvf" //your twitter secret key;
 
 
     private Button btnSigninFb, btnSigninGoogle, btnSigninTwitter;
